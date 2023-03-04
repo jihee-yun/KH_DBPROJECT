@@ -6,7 +6,7 @@ import vo.UserInfoVO;
 
 import java.util.List;
 import java.util.Scanner;
-//123
+//10715
 public class JdbcMain {
     public static void main(String[] args) {
         menuSelect();
