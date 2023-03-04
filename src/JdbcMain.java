@@ -6,7 +6,7 @@ import vo.UserInfoVO;
 
 import java.util.List;
 import java.util.Scanner;
-
+//확인
 public class JdbcMain {
     public static void main(String[] args) {
         menuSelect();
